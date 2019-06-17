@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560748063819.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3920630657",
+    "id" : "51B5CC14",
+    "lastKnownWriteTime" : 1560748060,
+    "last_content_update" : 1560748060,
+    "path" : "C:/Users/Paulius/thesisExtracr/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
