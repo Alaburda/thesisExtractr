@@ -5,4 +5,70 @@ $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki
 tracr/.git/[0K
 [0K[?25h[?25l
 [0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/63B68B92[0K/[?25l
+sources/prop/D374BC5D.[0K
+The file will have its original line endings in your working[0K
+directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/63B68B92[0K/
+sources/prop/INDEX.[0K
+The file will have its original line endings in your working[0K
+directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/63B68B92[0K/
+sources/s-6477B886/51B5CC14.[0K
+The file will have its original line endings in your working[0K
+directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/63B68B92[0K/
+sources/s-6477B886/51B5CC14-contents.[0K
+The file will have its original line endings in your working[0K
+directory.[0K
+[0K[?25h[?25l
+[0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hp[0Kl[0Ka[0Kc[0Ke[0Kh[0Ko[0Kl[0Kd[0Ke[0Kr[0K"[0K[?25l
+[0K[?25h[master (root-commit) 3ea16f5] placeholder[0K[?25l
+ 14 files changed, 116 insertions(+)[0K
+ create mode 100644 .Rbuildignore[0K
+ create mode 100644 .Rproj.user/63B68B92/console06/E19BBD7F[0K
+ create mode 100644 .Rproj.user/63B68B92/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/63B68B92/sources/prop/D374BC[0K5
+D[0K
+ create mode 100644 .Rproj.user/63B68B92/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/63B68B92/sources/s-6477B886/[0K5
+1B5CC14[0K
+ create mode 100644 .Rproj.user/63B68B92/sources/s-6477B886/[0K5
+1B5CC14-contents[0K
+ create mode 100644 .Rproj.user/63B68B92/sources/s-6477B886/[0Kl
+ock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk[0K-
+names[0K
+ create mode 100644 DESCRIPTION[0K
+ create mode 100644 NAMESPACE[0K
+ create mode 100644 R/hello.R[0K
+ create mode 100644 man/hello.Rd[0K
+ create mode 100644 thesisExtracr.Rproj[0K
+[0K[?25h[?25l
+[0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hfatal: 'origin' does not appear to be a git repository[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+[0K[?25h[?25l
+[0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[11G[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add origin https://github.com/Alaburda/thesisEx[0K
+tractr.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hCounting objects: 24, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (16/16), done.[0K
+Writing objects: 100% (24/24), 2.80 KiB | 954.00 KiB/s, done[0K.
+[0K
+Total 24 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/Alaburda/thesisExtractr.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h[?25l
+[0;32mPaulius@Paulius-PC [0;35m [0;33m~/thesisExtracr[0;36m (master)[0m[0K
+$[0K[3G[?25h
