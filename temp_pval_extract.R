@@ -139,8 +139,8 @@ abstract_data[abstract_data$Year == 2012.2,] <- length_of_year(abstract_data,abs
 pvalue_data[pvalue_data$Year == 2012.2,] <- length_of_year(pvalue_data,abstract_data,2012)
 
 # Save both of the datasets into one .rda file
-write_csv(abstract_data, path = "abstract_data.csv")
-write_csv(pvalue_data, path = "p_vals.csv")
+readr::write_csv(abstract_data, path = "abstract_data.csv")
+readr::write_csv(pvalue_data, path = "p_vals.csv")
 
 
 
